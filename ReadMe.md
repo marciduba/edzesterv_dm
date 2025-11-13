@@ -1,4 +1,4 @@
-# Edzésterv nyílvántartó - DM
+# Edzésterv nyílvántartó - Duba Marcell
 
 ## Leírás
 Ezzel a programmal edzésgyakorlatokat lehet nyílvántartani, progresszió követésének érdekében.
