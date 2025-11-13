@@ -1,0 +1,42 @@
+[
+  {
+    "nev": "Bicep curl",
+    "izomcsoport": "Bicepsz",
+    "suly_kg": 50.0,
+    "sorozat": 2,
+    "ismetles": 6,
+    "datum": "2025-11-14",
+    "megjegyzes": "",
+    "letrehozas_ideje": "2025-11-14T00:20:16"
+  },
+  {
+    "nev": "Tricep extension",
+    "izomcsoport": "Tricepsz",
+    "suly_kg": 80.0,
+    "sorozat": 2,
+    "ismetles": 12,
+    "datum": "2025-11-14",
+    "megjegyzes": "",
+    "letrehozas_ideje": "2025-11-14T00:20:56"
+  },
+  {
+    "nev": "Leg press",
+    "izomcsoport": "Quad",
+    "suly_kg": 200.0,
+    "sorozat": 4,
+    "ismetles": 12,
+    "datum": "2025-11-14",
+    "megjegyzes": "",
+    "letrehozas_ideje": "2025-11-14T00:21:24"
+  },
+  {
+    "nev": "Shoulder press",
+    "izomcsoport": "Váll",
+    "suly_kg": 40.0,
+    "sorozat": 2,
+    "ismetles": 6,
+    "datum": "2025-11-14",
+    "megjegyzes": "",
+    "letrehozas_ideje": "2025-11-14T00:21:45"
+  }
+]
